@@ -2,7 +2,7 @@
 
 The cosmological 21-cm signal is a powerful probe of the early Universe. A vast number of experiments have been proposed to detect this signal. 
 
-A list of these experiments is compiled in a publicly editable Google Sheet at: [bit.ly/21cmExperiments](https://bit.ly/21cmExperiments). This repository contains some simple code to load it on Python if needed (`UsingPython.ipynb`), and the list of publications associated with the experiments (`21cmExperiments.bib`).
+A list of these experiments is compiled in a publicly editable Google Sheet at: [Link to Google Sheet](https://docs.google.com/spreadsheets/d/1ivpOBFxBW_3guvNMOkRfU7e-hFXRtjXCTbr4aTJcPdY/edit?usp=sharing). This repository contains some simple code to load it on Python if needed (`UsingPython.ipynb`), and the list of publications associated with the experiments (`21cmExperiments.bib`).
 
 **NOTE**: Given the public nature of the Google Sheet, there is no guarantee that the BibTeX file and Python code will always work. However, I will try to keep them updated as much as possible.
 
